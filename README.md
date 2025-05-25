@@ -1,2 +1,2 @@
 ** Coding week ml task **
-Welcome to the CampusPulse Initiative, part of the Machine Learning challenge organized during Coding Week 2025 by the Coding Club, IIT Guwahati. This repository contains all work related to task 1 and task2
+ part of the Machine Learning challenge organized during Coding Week 2025 by the Coding Club, IIT Guwahati. This repository contains all work related to task 1 and task2
